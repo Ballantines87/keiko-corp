@@ -297,6 +297,8 @@ a.app_link{
 	color: #636363;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
+	font-display: swap;
+	
 }
 
 a.app_link:hover,
@@ -351,6 +353,7 @@ a.app_link{
   padding: 4px;
   font-size: 1.4em;
   font-weight: bolder;
+  font-style: swap;
 }
 
 
@@ -422,6 +425,7 @@ a.app_link{
 	line-height: 46px;
 	margin: 0 0 20px 0;
 	word-break: break-word;
+	font-style: swap;
 }
 
 .about .features_list p{
@@ -430,6 +434,7 @@ a.app_link{
 	font-size: 16px;
 	margin-bottom: 45px;
 	line-height: 32px;
+	font-style: swap;
 }
 
 .about .features_list ul{
@@ -444,6 +449,7 @@ a.app_link{
 	font-size: 16px;
 	line-height: 44px;
 	text-indent: 25px;
+	font-style: swap;
 
 	transition: all .2s linear;
 	-o-transition: all .2s linear;
@@ -508,6 +514,7 @@ a.app_link{
 	font-size: 20px;
 	margin: 50px 0 0 0;
 	word-break: break-word;
+	font-style: swap;
 }
 
 .app_features p{
@@ -516,6 +523,7 @@ a.app_link{
 	font-size: 16px;
 	margin: 30px 0 0 0;
 	line-height: 28px;
+	font-style: swap;
 }
 
 .app_features .details{
@@ -558,6 +566,7 @@ a.app_link{
 	font-size: 18px;
 	margin-bottom: 50px;
 	line-height: 36px;
+	font-style: swap;
 }
 
 .testimonials .testimonials_list blockquote footer:before,
@@ -575,17 +584,20 @@ a.app_link{
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	margin-bottom: 10px;
+	font-style: swap;
 }
 
 .testimonials .testimonials_list blockquote .job{
 	color: #6e6d6d;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
+	font-style: swap;
 }
 
-.#tslider{
+#tslider{
 	text-align: center!important;
 	position: relative!important;
+	
 }
 
 #tslider .owl-controls{
@@ -658,6 +670,7 @@ a.app_link{
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	margin-bottom: 50px;
+	font-style: swap;
 }
 
 .sub_box #mc-email{
@@ -673,6 +686,7 @@ a.app_link{
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	vertical-align: middle;
+	font-style: swap;
 
 	border-top-left-radius: 2px;
 	-o-border-top-left-radius: 2px;
@@ -733,6 +747,7 @@ a.app_link{
 	font-size: 13px;
 	text-transform: lowercase;
 	margin-top: 20px;
+	font-style: swap;
 }
 
 .sub_box #error_msg,
@@ -770,6 +785,7 @@ footer .copyright{
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 12px;
 	letter-spacing: .5px;
+	font-style: swap;
 }
 
 footer .copyright a{
